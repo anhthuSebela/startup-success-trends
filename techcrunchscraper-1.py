@@ -30,5 +30,3 @@ for text_box in text_boxes:
         for f_tag in funding_amount:
             print("funding Tag: " + f_tag.text) 
         print('')
-    else:
-        print("fuck")
