@@ -1,1 +1,0 @@
-# startup-success-trends
